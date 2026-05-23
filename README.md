@@ -49,6 +49,7 @@ The final model used Logistic Regression to estimate win probabilities for posts
 -  4/4 Divisional accuracy
 - 2/2 Conference Championship accuracy
 - Correctly identified the Super Bowl winner
+<img src = "results.jpeg" width = 800>
 
 ## Data Sources
 Dataset derived from <a href = "https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2025.csv.gz"/>nflverse</a>
